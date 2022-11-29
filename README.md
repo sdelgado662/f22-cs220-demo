@@ -3,7 +3,7 @@
 # Main Heading
 
 # Sub Heading
-*First Item
+* First Item
 
 ```
 #include <iostream>
