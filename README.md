@@ -2,7 +2,7 @@
 *Bold*
 # Main Heading
 
-# Sub Heading
+## Sub Heading
 * First Item
 
 ```
